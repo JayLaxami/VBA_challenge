@@ -2,11 +2,11 @@
 
 In this project, I developed a VBA script in Excel to analyze multiple years of stock data for various stocks, calculating and highlighting key metrics.
 
-Basic Analysis: The script loops through each year of data, calculating the total trading volume for each stock and displaying the ticker symbols alongside their volumes.
+Easy Analysis: The script loops through each year of data, calculating the total trading volume for each stock and displaying the ticker symbols alongside their volumes.
 
 Moderate Analysis: The script expands to calculate the yearly price change (from the year's opening price to its closing price) and the percentage change for each stock. It also highlights positive price changes in green and negative changes in red to make trends easily visible.
 
-Advanced Analysis: Building on the previous sections, the script identifies the stock with the greatest percentage increase, the greatest percentage decrease, and the highest total trading volume across all stocks.
+Hard Analysis: Building on the previous sections, the script identifies the stock with the greatest percentage increase, the greatest percentage decrease, and the highest total trading volume across all stocks.
 
 **Year 2018 StockData Screenshot**
 
